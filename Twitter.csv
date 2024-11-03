@@ -1,0 +1,83 @@
+ID,Title,Difficulty,Link
+256,Paint House,Easy, https://leetcode.com/problems/paint-house
+20,Valid Parentheses,Easy, https://leetcode.com/problems/valid-parentheses
+532,K-diff Pairs in an Array,Easy, https://leetcode.com/problems/k-diff-pairs-in-an-array
+706,Design HashMap,Easy, https://leetcode.com/problems/design-hashmap
+586,Customer Placing the Largest Number of Orders,Easy, https://leetcode.com/problems/customer-placing-the-largest-number-of-orders
+346,Moving Average from Data Stream,Easy, https://leetcode.com/problems/moving-average-from-data-stream
+1,Two Sum,Easy, https://leetcode.com/problems/two-sum
+202,Happy Number,Easy, https://leetcode.com/problems/happy-number
+716,Max Stack,Easy, https://leetcode.com/problems/max-stack
+235,Lowest Common Ancestor of a Binary Search Tree,Easy, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+496,Next Greater Element I,Easy, https://leetcode.com/problems/next-greater-element-i
+482,License Key Formatting,Easy, https://leetcode.com/problems/license-key-formatting
+118,Pascal's Triangle,Easy, https://leetcode.com/problems/pascals-triangle
+206,Reverse Linked List,Easy, https://leetcode.com/problems/reverse-linked-list
+169,Majority Element,Easy, https://leetcode.com/problems/majority-element
+101,Symmetric Tree,Easy, https://leetcode.com/problems/symmetric-tree
+868,Binary Gap,Easy, https://leetcode.com/problems/binary-gap
+433,Minimum Genetic Mutation,Medium, https://leetcode.com/problems/minimum-genetic-mutation
+635,Design Log Storage System,Medium, https://leetcode.com/problems/design-log-storage-system
+341,Flatten Nested List Iterator,Medium, https://leetcode.com/problems/flatten-nested-list-iterator
+608,Tree Node,Medium, https://leetcode.com/problems/tree-node
+355,Design Twitter,Medium, https://leetcode.com/problems/design-twitter
+468,Validate IP Address,Medium, https://leetcode.com/problems/validate-ip-address
+585,Investments in 2016,Medium, https://leetcode.com/problems/investments-in-2016
+647,Palindromic Substrings,Medium, https://leetcode.com/problems/palindromic-substrings
+831,Masking Personal Information,Medium, https://leetcode.com/problems/masking-personal-information
+547,Friend Circles,Medium, https://leetcode.com/problems/friend-circles
+580,Count Student Number in Departments,Medium, https://leetcode.com/problems/count-student-number-in-departments
+146,LRU Cache,Medium, https://leetcode.com/problems/lru-cache
+161,One Edit Distance,Medium, https://leetcode.com/problems/one-edit-distance
+56,Merge Intervals,Medium, https://leetcode.com/problems/merge-intervals
+307,Range Sum Query - Mutable,Medium, https://leetcode.com/problems/range-sum-query-mutable
+945,Minimum Increment to Make Array Unique,Medium, https://leetcode.com/problems/minimum-increment-to-make-array-unique
+1348,Tweet Counts Per Frequency,Medium, https://leetcode.com/problems/tweet-counts-per-frequency
+251,Flatten 2D Vector,Medium, https://leetcode.com/problems/flatten-2d-vector
+200,Number of Islands,Medium, https://leetcode.com/problems/number-of-islands
+139,Word Break,Medium, https://leetcode.com/problems/word-break
+133,Clone Graph,Medium, https://leetcode.com/problems/clone-graph
+380,Insert Delete GetRandom O(1),Medium, https://leetcode.com/problems/insert-delete-getrandom-o1
+528,Random Pick with Weight,Medium, https://leetcode.com/problems/random-pick-with-weight
+208,Implement Trie (Prefix Tree),Medium, https://leetcode.com/problems/implement-trie-prefix-tree
+12,Integer to Roman,Medium, https://leetcode.com/problems/integer-to-roman
+91,Decode Ways,Medium, https://leetcode.com/problems/decode-ways
+43,Multiply Strings,Medium, https://leetcode.com/problems/multiply-strings
+271,Encode and Decode Strings,Medium, https://leetcode.com/problems/encode-and-decode-strings
+767,Reorganize String,Medium, https://leetcode.com/problems/reorganize-string
+981,Time Based Key-Value Store,Medium, https://leetcode.com/problems/time-based-key-value-store
+1041,Robot Bounded In Circle,Medium, https://leetcode.com/problems/robot-bounded-in-circle
+490,The Maze,Medium, https://leetcode.com/problems/the-maze
+540,Single Element in a Sorted Array,Medium, https://leetcode.com/problems/single-element-in-a-sorted-array
+814,Binary Tree Pruning,Medium, https://leetcode.com/problems/binary-tree-pruning
+36,Valid Sudoku,Medium, https://leetcode.com/problems/valid-sudoku
+105,Construct Binary Tree from Preorder and Inorder Traversal,Medium, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+210,Course Schedule II,Medium, https://leetcode.com/problems/course-schedule-ii
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium, https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+323,Number of Connected Components in an Undirected Graph,Medium, https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+378,Kth Smallest Element in a Sorted Matrix,Medium, https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+1347,Minimum Number of Steps to Make Two Strings Anagram,Medium, https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+1459,Rectangles Area,Medium, https://leetcode.com/problems/rectangles-area
+780,Reaching Points,Hard, https://leetcode.com/problems/reaching-points
+296,Best Meeting Point,Hard, https://leetcode.com/problems/best-meeting-point
+57,Insert Interval,Hard, https://leetcode.com/problems/insert-interval
+269,Alien Dictionary,Hard, https://leetcode.com/problems/alien-dictionary
+679,24 Game,Hard, https://leetcode.com/problems/24-game
+920,Number of Music Playlists,Hard, https://leetcode.com/problems/number-of-music-playlists
+68,Text Justification,Hard, https://leetcode.com/problems/text-justification
+295,Find Median from Data Stream,Hard, https://leetcode.com/problems/find-median-from-data-stream
+42,Trapping Rain Water,Hard, https://leetcode.com/problems/trapping-rain-water
+1326,Minimum Number of Taps to Open to Water a Garden,Hard, https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+218,The Skyline Problem,Hard, https://leetcode.com/problems/the-skyline-problem
+149,Max Points on a Line,Hard, https://leetcode.com/problems/max-points-on-a-line
+10,Regular Expression Matching,Hard, https://leetcode.com/problems/regular-expression-matching
+84,Largest Rectangle in Histogram,Hard, https://leetcode.com/problems/largest-rectangle-in-histogram
+60,Permutation Sequence,Hard, https://leetcode.com/problems/permutation-sequence
+23,Merge k Sorted Lists,Hard, https://leetcode.com/problems/merge-k-sorted-lists
+239,Sliding Window Maximum,Hard, https://leetcode.com/problems/sliding-window-maximum
+44,Wildcard Matching,Hard, https://leetcode.com/problems/wildcard-matching
+124,Binary Tree Maximum Path Sum,Hard, https://leetcode.com/problems/binary-tree-maximum-path-sum
+140,Word Break II,Hard, https://leetcode.com/problems/word-break-ii
+76,Minimum Window Substring,Hard, https://leetcode.com/problems/minimum-window-substring
+407,Trapping Rain Water II,Hard, https://leetcode.com/problems/trapping-rain-water-ii
+1206,Design Skiplist,Hard, https://leetcode.com/problems/design-skiplist
